@@ -1,4 +1,4 @@
-# APIPRINTER
+# APIPRINTER - WebPluginPrinter 
 Servicio de Impresion Direcata a USB desde Navegador
 
 ### REQUISITOS: 
