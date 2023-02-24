@@ -25,7 +25,7 @@ C:\Program Files\WebPluginPrinter
 shell:startup
 ```
 Abrira la ruta **C:\Users<Nombre del usuario>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup**
-donde se copiara el archivo api.bat
+donde se copiara el archivo **api.bat**
 para autoarranque al inicio
 
 ## COMPROBAR SERVICIO
